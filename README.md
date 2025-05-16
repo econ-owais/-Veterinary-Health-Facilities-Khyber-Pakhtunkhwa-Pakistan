@@ -1,4 +1,4 @@
-# NOTE: to see the intractive plots just click on green code button and download the full repository in ZIP folder, then you see the plots.
+# NOTE: to see the interactive plots just click on green code button and download the full repository in ZIP folder, then you see the plots.
 # 🐄 Veterinary Health Facilities Dashboard – Khyber Pakhtunkhwa, Pakistan
 
 This project presents a professional and interactive analysis of veterinary health facilities across various districts in Khyber Pakhtunkhwa (KPK), Pakistan. Using data visualization techniques in R and Python, this dashboard provides insights into the distribution and types of facilities such as hospitals, dispensaries, and centers.
@@ -11,8 +11,6 @@ The interactive dashboard includes:
 - 📈 **Horizontal Bar Chart**: Total facilities by district
 - 🥧 **Pie Chart**: Proportional distribution of all facility types
 
-> **Live Preview**:  
-> 🔗 [Click here to view the dashboard](plots/veterinary_facilities_dashboard.html)
 
 ---
 
